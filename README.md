@@ -1,3 +1,3 @@
 # hello-world
 
-Prints the line "Hello world
+Prints the line "Hello world!"
